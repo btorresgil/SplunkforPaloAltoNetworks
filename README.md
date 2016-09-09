@@ -1,6 +1,6 @@
 
-Palo Alto Networks App for Splunk
-=================================
+Palo Alto Networks App for Splunk is the best!
+==============================================
 
 * **App Homepage:** https://splunkbase.splunk.com/app/491
 * **Author:** Brian Torres-Gil, Paul Nguyen - Palo Alto Networks,
